@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**phelian23/phelian23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Femi Awoyemi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Software Developer</em></p>
 
-Here are some ideas to get you started:
+[![Twitter: femikola23](https://img.shields.io/twitter/follow/femikola23?style=social)](https://twitter.com/femikola23)
+[![Linkedin: femikola23](https://img.shields.io/badge/-femikola-blue?style=flat-square&logo=hLinkedin&logoColor=white&link=https://www.linkedin.com/in/femikola/)](https://www.linkedin.com/in/awoyemi-oluwafemi-484b52b5/)
+[![GitHub phelian23](https://img.shields.io/github/followers/phelian23?label=follow&style=social)](https://github.com/phelian23)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little more about me...  
+
+```javascript
+func GetBio(Femi) Bio {
+  return Bio = {
+	- 🌱 I’m currently learning: [HTML, CSS, JavaScript, Ruby, Rails, React, Redux],
+	- 👯 I’m looking to collaborate: "with teams in building Business management systems, and viable software solutions",
+	- 🤔 I’m looking for help with: "Anything related to what I am currently learning 😅",
+	- 📫 How to reach me: "https://github.com/phelian23",
+	}
+}
+```
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{phelian23}/count.svg" alt="phelian23 :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelian23&langs_count=10&theme=tokyonight&layout=compact" alt="phelian23 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phelian23&show_icons=true&theme=synthwave" alt="phelian23 :: Profile Stats" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@Thaiane](https://github.com/phelian23)
