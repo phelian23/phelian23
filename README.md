@@ -1,10 +1,9 @@
-### Hi there 👋
 
-<h2> Hi, I'm Femi Awoyemi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there 👋, I'm Femi Awoyemi! </h2>
 <p><em>Software Developer</em></p>
 
 [![Twitter: femikola23](https://img.shields.io/twitter/follow/femikola23?style=social)](https://twitter.com/femikola23)
-[![Linkedin: femikola23](https://img.shields.io/badge/-femikola-blue?style=flat-square&logo=hLinkedin&logoColor=white&link=https://www.linkedin.com/in/femikola/)](https://www.linkedin.com/in/awoyemi-oluwafemi-484b52b5/)
+[![Linkedin: femikola23](https://img.shields.io/badge/-awoyemi-oluwafemi-484b52b5-blue?style=flat-square&logo=hLinkedin&logoColor=white&link=https://www.linkedin.com/in/awoyemi-oluwafemi-484b52b5/)](https://www.linkedin.com/in/awoyemi-oluwafemi-484b52b5/)
 [![GitHub phelian23](https://img.shields.io/github/followers/phelian23?label=follow&style=social)](https://github.com/phelian23)
 
 
