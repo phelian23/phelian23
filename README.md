@@ -37,4 +37,4 @@ func GetBio(Femi) Bio {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/phelian23)
+⭐️ From [@phelian23](https://github.com/phelian23)
