@@ -25,7 +25,7 @@ const Femi = {
 📜 AWS Certifications
 <p align="left"> <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS Solutions Architect Associate"/> </p>
 
-<h2 align="center">📊 Github Stats</h2> <h4 align="center">Visitor's Count 👀</h4> <p align="center"><img src="https://profile-counter.glitch.me/{phelian23}/count.svg" alt="phelian23 :: Visitor's Count" /></p> <h4 align="center">Top Languages 🧠</h4> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelian23&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" /></p> <h4 align="center">Profile Overview 📈</h4> <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phelian23&show_icons=true&theme=synthwave" alt="GitHub Stats" /></p>
+<h2 align="center">📊 Github Stats</h2> <h4 align="center">Visitor's Count 👀</h4> <p align="center"><img src="https://profile-counter.glitch.me/{phelian23}/count.svg" alt="phelian23 :: Visitor's Count" /></p> <h4 align="center">Top Languages 🧠</h4> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelian23&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" /></p> <h4 align="center">Profile Overview 📈</h4> <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phelian23&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with people and learning from others.</b> If you have something interesting in DevOps, cloud, or software engineering — let's talk!</em>
 
